@@ -10,7 +10,11 @@
 ## Smaug Web Browser 
 For the data hoarder in me, (semi-)permanently save visited webpages to your hard drive. Probably incredibly impractical but a man can dream. 
 ## Embed MPV in Browser
-Pretty much what it says on the tin, it would be cool if mpv could be used to play any video from within the browser itself. I'm not sure if there would be much advantage over just using the classic mpv + yt-dlp combo, and I don't know if its even actually possible. 
+Pretty much what it says on the tin, it would be cool if mpv could be used to play any video from within the browser itself. I'm not sure if there would be much advantage over just using the classic mpv + yt-dlp combo, and I don't know if its even actually possible.
+## VixenVacious
+Firefox extension (maybe chrome too, idk) to emulate the [voracious video player](https://voracious.app/) in the browser
+## QR Amongi
+Find those little pixel amongi in QR codes
 ## ???????
 
 <!---
